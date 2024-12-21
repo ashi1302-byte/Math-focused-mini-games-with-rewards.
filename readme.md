@@ -8,6 +8,7 @@ Users are rewarded with tokens or Ether for each successfully completed game. Th
 
 ## Contract Address
 0x8dA4b5A0218B6e65e7B4D3c67e4fcCd1E1a29469
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/3cc8d46e-92f0-49ec-9ad0-4e2032067eb3" />
 
 ## Project Vision
 The vision of the **Math-Focused Mini-Games with Rewards** project is to create a unique educational platform that motivates users to engage with and improve their math skills. By gamifying the learning experience and integrating a blockchain-based rewards system, the project aims to offer users a fun way to learn while providing real-world incentives. The platform also aims to introduce educational gamification on the blockchain, where knowledge translates into tangible rewards.
